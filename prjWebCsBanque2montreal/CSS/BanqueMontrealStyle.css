@@ -1,0 +1,50 @@
+﻿body {
+    background-color: darkblue;
+    color: ghostwhite;
+    font-weight: bold;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    text-decoration: underline;
+}
+
+marquee {
+    background-color: white;
+    color: red;
+    font-weight: bold;
+}
+
+.panel {
+    background-color: ghostwhite;
+    color: navy;
+    font-weight: bold;
+    width: 300px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.MesBoutons {
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.boite {
+    font-weight: bold;
+    color: black;
+}
+
+.centrer {
+    text-align: center;
+}
+
+.boiteMontant {
+    font-weight: bold;
+    color: black;
+    width: 80px;
+}

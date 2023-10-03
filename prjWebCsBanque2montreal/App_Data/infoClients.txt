@@ -1,0 +1,48 @@
+clo01
+Bill Gates
+Windows
+25000
+clo23
+Ali Baba
+couscous
+20000
+clo01
+Bill Gates
+Windows
+25300
+clo23
+Ali Baba
+couscous
+20000
+clo01
+Bill Gates
+Windows
+25300
+clo23
+Ali Baba
+couscous
+20000
+clo01
+Bill Gates
+Windows
+25300
+clo23
+Ali Baba
+couscous
+20000
+clo01
+Bill Gates
+Windows
+25300
+clo23
+Ali Baba
+couscous
+20000
+clo01
+Bill Gates
+Windows
+25300
+clo23
+Ali Baba
+couscous
+20000
